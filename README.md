@@ -1,7 +1,7 @@
 WPkmkz Bootstrap Grid for Widgets
 ======================
 
-##Adds a menu on the bottom of widgets whre you can set bootstrap columns or rows.
+##Adds a menu on the bottom of wp widgets in the admin widgets area where you can set bootstrap columns or rows.
 
 You have to use Bootstrap framework as this plugin does not provide the bootstrap files.
 
