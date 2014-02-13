@@ -10,10 +10,14 @@
  * Plugin Name:       WPkmkz Boostrap Grid Widgets
  * Plugin URI:        http://wpkamikaze.com/wpkmkz-bs-grid-widgets
  * Description:       Add bootstrap rows and columns to your widgets.
+ * Tags:              bootstrap, widgets
  * Version:           1.0.0
  * Author:            Kostas Skapator Charal
  * Author URI:        http://skapator.com
  * Text Domain:       wpkmkz-bsgw
+ * Requires at least: 3.5.1
+ * Tested up to:      3.8.1
+ * Stable tag:        1.0.0
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Domain Path:       /languages
