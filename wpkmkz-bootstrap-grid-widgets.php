@@ -1,11 +1,5 @@
 <?php
 /**
- * @package   WPkmkz Boostrap Grid Widgets
- * @author    Kostas Skapator Charal <kostas@skapator.com>
- * @license   GPL-2.0+
- * @link      http://wpkamikaze.com/wpkmkz-bs-grid-widgets
- * @copyright 2014 WPkmkz
- *
  * wpkmkz-bootstrap-grid-widgets
  * Plugin Name:       WPkmkz Boostrap Grid Widgets
  * Plugin URI:        http://wpkamikaze.com/wpkmkz-bs-grid-widgets
@@ -13,10 +7,10 @@
  * Tags:              bootstrap, widgets
  * Version:           1.0.0
  * Author:            Kostas Skapator Charal
- * Author URI:        http://skapator.com
+ * Author URI:        http://wpkamikaze.com
  * Text Domain:       wpkmkz-bsgw
  * Requires at least: 3.5.1
- * Tested up to:      3.8.1
+ * Tested up to:      3.9.1
  * Stable tag:        1.0.0
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
